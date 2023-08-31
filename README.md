@@ -1,2 +1,2 @@
 # Site-pecas
-Site para tentar ser responsiveç
+Site para tentar ser responsivo
